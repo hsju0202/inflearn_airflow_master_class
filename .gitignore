@@ -1,3 +1,4 @@
 .env
-airflow_venv
+venv
 logs
+__pycache__
